@@ -726,7 +726,6 @@ label{
 }
 
 .bgs{
-<<<<<<< HEAD
 	background-color: rgba(255, 255, 255, 1);
         color: rgba(0, 0, 0, 1);
 	text-align:justify;
@@ -740,12 +739,6 @@ label{
 	text-align:justify;
 	padding:15px;
 	float: left;
-=======
-	background:#FFFFFF;
-	text-align:justify;
-	padding:15px;
-	
->>>>>>> FETCH_HEAD
 	}
 
 @media all and (min-width: 1001px) {
@@ -2396,7 +2389,6 @@ use translate instead of translate3d for the first move.
 	width:500px; margin:auto;
 	
 	
-<<<<<<< HEAD
 	}}
         
 .Specs{
@@ -2412,6 +2404,3 @@ use translate instead of translate3d for the first move.
     font-size: 3vw !important;
     text-align: justify;
 }
-=======
-	}
->>>>>>> FETCH_HEAD
